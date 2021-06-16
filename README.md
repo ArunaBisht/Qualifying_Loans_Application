@@ -1,5 +1,7 @@
 # Project Title - Loan Qualifier Application
 
+Snapshot.PNG
+
 The objective of this project is to find out which users qualified for the loan given the matrix of- credit score, max DTI, max LTV, max loan amount. Second is- non technical users will automatically save their qualifying loans into the csv file. 
 
 Inspiration for this project - this project automize the manual work of who or who's not qualified and automatically save it in csv form the users in the presentable form.
